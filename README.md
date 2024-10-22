@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **pcc2k00/pcc2k00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,8 +16,9 @@ Here are some ideas to get you started:
 
 <h2 align="left"> 💫 About Me: </h2>
 
-- 👨‍💻 I am a **Computer Science Student** 
+- 👨‍💻 I am a **Computer Science Graduate** 
 - 🌱 I’m currently learning **Django & Fast API**
+- 👯 I’m looking to collaborate **Fun Projects**
 - 💬 Ask me about **JAVA**
 - 📫 How to reach me: **pchandwa@asu.edu**
 - 😄 Pronouns: **he/him**
